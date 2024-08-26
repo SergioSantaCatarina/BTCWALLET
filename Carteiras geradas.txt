@@ -1,0 +1,23 @@
+//Primeira carteira gerada - importada no Electrum
+
+PS C:\Users\sergi\BTCWALLET\src> node createWallet.js
+Carteira Gerada
+Endereço:  mgWQbU7Jd9JcCaNi41QMM61hUdAmLWAaUT
+Chave privada:  cW3Gy6WtC9hvejCTo7TdgNenbxT6gG7Cd2SZvYGY3miBjgGQMqCg
+Seed:  salt decide smooth much barely test tumble rubber finish duty like humor
+PS C:\Users\sergi\BTCWALLET\src> 
+
+// segunda carteira gerada - importada no electrum
+
+Carteira Gerada
+Endereço:  muPHJJqNsi1gh5UASFQeQwJBawPKG2BPiC
+Chave privada:  cMbbnbZdXrd6RW73jU1inHiMnBe8viqwZQ3LiUnUXJ8LgDj928GJ
+Seed:  fox pond common tag apology menu opinion coyote ahead visual permit cereal
+
+
+// segundaterceira carteira gerada 
+
+Carteira Gerada
+Endereço:  mmC4zBNMo1chQ8aDFMCoXzsVhsHBjst7YK
+Chave privada:  cW8VooT5AqtN4gNCEAz1Zm3p4ESddx7WqqLVoXRY3657tzBpZR9R
+Seed:  vivid journey ice track second alarm gap select attitude success about multiply
